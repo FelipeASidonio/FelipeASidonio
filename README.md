@@ -2,7 +2,7 @@
 
 Hi, welcome to my github profile.
 
-<a href='https://www.linkedin.com/in/FelipeAtaideSidonio/'>
+<a href='https://www.linkedin.com/in/FelipeSidonio/'>
   <img src='https://img.shields.io/static/v1?label&message=Linkedin&color=blue&style=for-the-badge&logo=linkedin'/>
 </a>
 <a href='https://twitter.com/felipeasidonio'>
