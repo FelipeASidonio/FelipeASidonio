@@ -36,12 +36,7 @@ Hi, welcome to my github profile.
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=felipeasidonio&theme=vue&count_private=true&show_icons=true&hide_border=true" />
-  
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipeasidonio&theme=vue&hide_border=true" />
-  </a>
-  
-</div>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=felipeasidonio&theme=github_dark&count_private=true&show_icons=true&hide_border=true"/>
+   
+
 
